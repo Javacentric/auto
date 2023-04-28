@@ -57,3 +57,9 @@ Save time.  Save code.  Save sanity.
 [java]: https://en.wikipedia.org/wiki/Java_(programming_language)
 [value-type]: http://en.wikipedia.org/wiki/Value_object
 [`ServiceLoader`]: http://docs.oracle.com/javase/7/docs/api/java/util/ServiceLoader.html
+
+Links
+
+https://pedrorijo.com/blog/java-service-loader/
+
+
